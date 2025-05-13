@@ -1,0 +1,28 @@
+﻿@model ADMIN.Repository.Models.NhaCungCap
+
+@{
+    ViewData["Title"] = "Chi Tiết Nhà Cung Cấp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chi Tiết Nhà Cung Cấp</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <dl class="row">
+            <dt class="col-sm-3">Tên Nhà Cung Cấp</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.TenNhaCungCap)</dd>
+
+            <dt class="col-sm-3">Địa Chỉ</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.DiaChi)</dd>
+
+            <dt class="col-sm-3">Số Điện Thoại</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.SoDienThoai)</dd>
+        </dl>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Edit" asp-route-id="@Model?.NhaCungCapId" class="btn btn-primary">Chỉnh Sửa</a>
+            <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+        </div>
+    </div>
+</div>

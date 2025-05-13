@@ -1,0 +1,257 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ADMIN
+build_property.RootNamespace = ADMIN
+build_property.ProjectDir = D:\New folder\ADMIN\ADMIN\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\New folder\ADMIN\ADMIN
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Accounts/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Bans/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Bans/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Bans/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Bans/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Bans/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ChietKhaus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpZXRLaGF1c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ChietKhaus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpZXRLaGF1c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ChietKhaus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpZXRLaGF1c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ChietKhaus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpZXRLaGF1c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ChietKhaus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hpZXRLaGF1c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/HoaDons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/HoaDons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/HoaDons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/HoaDons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/HoaDons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hRG9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/KhachHangs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/KhachHangs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/KhachHangs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/KhachHangs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/KhachHangs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2hhY2hIYW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/LoaiNhanViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haU5oYW5WaWVuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/LoaiNhanViens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haU5oYW5WaWVuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/LoaiNhanViens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haU5oYW5WaWVuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/LoaiNhanViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haU5oYW5WaWVuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/LoaiNhanViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9haU5oYW5WaWVuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/login/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbG9naW5caW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/MonAns/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uQW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/MonAns/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uQW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/MonAns/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uQW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/MonAns/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uQW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/MonAns/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uQW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NguyenLieus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVuTGlldXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NguyenLieus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVuTGlldXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NguyenLieus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVuTGlldXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NguyenLieus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVuTGlldXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NguyenLieus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1eWVuTGlldXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhaCungCaps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhaCungCaps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhaCungCaps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhaCungCaps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhaCungCaps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhQ3VuZ0NhcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhanViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhanViens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhanViens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhanViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhanViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhblZpZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhapNguyenLieus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhcE5ndXllbkxpZXVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhapNguyenLieus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhcE5ndXllbkxpZXVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhapNguyenLieus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhcE5ndXllbkxpZXVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhapNguyenLieus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhcE5ndXllbkxpZXVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/NhapNguyenLieus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmhhcE5ndXllbkxpZXVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/ThongKes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhvbmdLZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/New folder/ADMIN/ADMIN/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-2sqja3kgpn

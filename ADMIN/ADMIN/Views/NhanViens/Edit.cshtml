@@ -1,0 +1,86 @@
+﻿@model ADMIN.Repository.Models.NhanVien
+
+@{
+    ViewData["Title"] = "Chỉnh Sửa Nhân Viên";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chỉnh Sửa Nhân Viên</h2>
+    <div class="border rounded p-4 shadow-sm">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NhanVienId" />
+
+            <div class="form-group mb-3">
+                <label asp-for="TenNhanVien" class="control-label">Tên Nhân Viên</label>
+                <input asp-for="TenNhanVien" class="form-control" placeholder="Nhập tên nhân viên" />
+                <span asp-validation-for="TenNhanVien" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Tên Đăng Nhập</label>
+                <input type="text" class="form-control" value="@ViewBag.TenDangNhap" readonly />
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Mật Khẩu</label>
+                <div class="input-group">
+                    <input type="password" id="passwordInput" name="MatKhau" class="form-control" value="@ViewBag.MatKhau" placeholder="Nhập mật khẩu mới" />
+                    <button type="button" class="btn btn-outline-secondary" id="togglePassword">
+                        <i class="bi bi-eye-slash" id="passwordIcon"></i>
+                    </button>
+                </div>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="SoDienThoai" class="control-label">Số Điện Thoại</label>
+                <input asp-for="SoDienThoai" class="form-control" type="number" placeholder="Nhập số điện thoại" />
+                <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="DiaChi" class="control-label">Địa Chỉ</label>
+                <input asp-for="DiaChi" class="form-control" placeholder="Nhập địa chỉ" />
+                <span asp-validation-for="DiaChi" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="LoaiNhanVienId" class="control-label">Loại Nhân Viên</label>
+                <select asp-for="LoaiNhanVienId" class="form-control" asp-items="ViewBag.LoaiNhanVienId">
+                    <option value="">Chọn loại nhân viên</option>
+                </select>
+                <span asp-validation-for="LoaiNhanVienId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+    <div class="mt-4">
+        <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('togglePassword').addEventListener('click', function () {
+            var passwordInput = document.getElementById('passwordInput');
+            var passwordIcon = document.getElementById('passwordIcon');
+            
+            if (passwordInput.type === 'password') {
+                passwordInput.type = 'text';
+                passwordIcon.classList.remove('bi-eye-slash');
+                passwordIcon.classList.add('bi-eye');
+            } else {
+                passwordInput.type = 'password';
+                passwordIcon.classList.remove('bi-eye');
+                passwordIcon.classList.add('bi-eye-slash');
+            }
+        });
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

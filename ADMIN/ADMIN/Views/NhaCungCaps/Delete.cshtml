@@ -1,0 +1,32 @@
+﻿@model ADMIN.Repository.Models.NhaCungCap
+
+@{
+    ViewData["Title"] = "Xóa Nhà Cung Cấp";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Xóa Nhà Cung Cấp</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <h3 class="text-danger">Bạn có chắc chắn muốn xóa nhà cung cấp này?</h3>
+        <dl class="row">
+            <dt class="col-sm-3">Tên Nhà Cung Cấp</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.TenNhaCungCap)</dd>
+
+            <dt class="col-sm-3">Địa Chỉ</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.DiaChi)</dd>
+
+            <dt class="col-sm-3">Số Điện Thoại</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.SoDienThoai)</dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="NhaCungCapId" />
+            <div class="d-flex justify-content-between">
+                <input type="submit" value="Xóa" class="btn btn-danger" />
+                <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+            </div>
+        </form>
+    </div>
+</div>

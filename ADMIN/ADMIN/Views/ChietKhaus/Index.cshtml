@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ADMIN.Repository.Models.ChietKhau>
+
+@{
+    ViewData["Title"] = "Danh Sách Chiết Khấu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Danh Sách Chiết Khấu</h2>
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <p class="text-muted"></p>
+        <a asp-action="Create" class="btn btn-primary">Thêm Chiết Khấu Mới</a>
+    </div>
+    <table class="table table-hover table-striped shadow-sm">
+        <thead class="thead-dark">
+            <tr>
+                <th>Mã Chiết Khấu</th>
+                <th>Giá Trị Chiết Khấu</th>
+                <th>Ngày Bắt Đầu</th>
+                <th>Ngày Kết Thúc</th>
+                <th>Số Lượng</th>
+                <th>Thao Tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.MaChietKhau)</td>
+                    <td>@Html.DisplayFor(modelItem => item.GiaTriChietKhau) VNĐ</td>
+                    <td>@Html.DisplayFor(modelItem => item.NgayBatDau)</td>
+                    <td>@Html.DisplayFor(modelItem => item.NgayKetThuc)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Soluong)</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.ChietKhauId" class="btn btn-info btn-sm">Chi Tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

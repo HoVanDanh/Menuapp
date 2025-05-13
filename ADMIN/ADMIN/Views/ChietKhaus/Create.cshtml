@@ -1,0 +1,87 @@
+﻿@model ADMIN.Repository.Models.ChietKhau
+
+@{
+    ViewData["Title"] = "Tạo Chiết Khấu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    @if (ViewBag.ErrorMessage != null)
+    {
+        <div class="alert alert-danger">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Tạo Chiết Khấu Mới</h2>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="border rounded p-4 shadow-sm">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="MaChietKhau" class="form-label">Mã Chiết Khấu</label>
+                        <input asp-for="MaChietKhau" class="form-control" placeholder="Nhập mã chiết khấu" />
+                        <span asp-validation-for="MaChietKhau" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="GiaTriChietKhau" class="form-label">Giá Trị Chiết Khấu</label>
+                        <input asp-for="GiaTriChietKhau" class="form-control" placeholder="Nhập giá trị chiết khấu" />
+                        <span asp-validation-for="GiaTriChietKhau" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="NgayBatDau" class="form-label">Ngày Bắt Đầu</label>
+                        <input asp-for="NgayBatDau" class="form-control" type="date" placeholder="Nhập ngày bắt đầu" />
+                        <span asp-validation-for="NgayBatDau" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="NgayKetThuc" class="form-label">Ngày Kết Thúc</label>
+                        <input asp-for="NgayKetThuc" class="form-control" type="date" placeholder="Nhập ngày kết thúc" />
+                        <span asp-validation-for="NgayKetThuc" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="Soluong" class="form-label">Số Lượng</label>
+                        <input asp-for="Soluong" class="form-control" type="number" placeholder="Nhập số lượng" />
+                        <span asp-validation-for="Soluong" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <input type="submit" value="Tạo Chiết Khấu" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+
+    <script>
+        document.querySelector("form").addEventListener("submit", function (event) {
+            const giaTriChietKhau = parseInt(document.querySelector('input[name="GiaTriChietKhau"]').value, 10);
+            const ngayBatDau = new Date(document.querySelector('input[name="NgayBatDau"]').value);
+            const ngayKetThuc = new Date(document.querySelector('input[name="NgayKetThuc"]').value);
+
+            // Kiểm tra giá trị chiết khấu
+            if (giaTriChietKhau <= 0 || isNaN(giaTriChietKhau)) {
+                alert("Giá trị chiết khấu phải lớn hơn 0.");
+                event.preventDefault();
+                return;
+            }
+
+            // Kiểm tra ngày kết thúc phải lớn hơn ngày bắt đầu
+            if (ngayKetThuc <= ngayBatDau) {
+                alert("Ngày kết thúc phải lớn hơn ngày bắt đầu.");
+                event.preventDefault();
+                return;
+            }
+        });
+    </script>
+}

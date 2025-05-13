@@ -1,0 +1,42 @@
+﻿@model ADMIN.Repository.Models.MonAn
+
+@{
+    ViewData["Title"] = "Xóa Món Ăn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Xóa Món Ăn</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <h3 class="text-danger">Bạn có chắc chắn muốn xóa món ăn này?</h3>
+        <dl class="row">
+            <dt class="col-sm-3">Tên Món Ăn</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.TenMon)</dd>
+
+            <dt class="col-sm-3">Giá Tiền</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Gia)</dd>
+
+            <dt class="col-sm-3">Hình Ảnh</dt>
+            <dd class="col-sm-9">
+                <img src="@Url.Content(Model.Img)" alt="@Model.TenMon" class="img-thumbnail" style="width: 100px; height: auto;" />
+            </dd>
+
+            <dt class="col-sm-3">Trạng Thái</dt>
+            <dd class="col-sm-9">
+                @(Model.TrangThaiMonAn.HasValue ? (Model.TrangThaiMonAn.Value ? "Còn Bán" : "Ngưng Bán") : "Ngưng Bán")
+            </dd>
+
+            <dt class="col-sm-3">Loại Món Ăn</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.LoaiMonAn.TenLoai)</dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="MonAnId" />
+            <div class="d-flex justify-content-between">
+                <input type="submit" value="Xóa" class="btn btn-danger" />
+                <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+            </div>
+        </form>
+    </div>
+</div>

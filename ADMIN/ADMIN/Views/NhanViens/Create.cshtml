@@ -1,0 +1,118 @@
+﻿@model ADMIN.Repository.Models.NhanVien
+
+@{
+    ViewData["Title"] = "Tạo Nhân Viên";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Tạo Nhân Viên Mới</h2>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="border rounded p-4 shadow-sm">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="TenNhanVien" class="form-label">Tên Nhân Viên</label>
+                        <input asp-for="TenNhanVien" class="form-control" placeholder="Nhập tên nhân viên" />
+                        <span asp-validation-for="TenNhanVien" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label class="form-label">Tên Đăng Nhập</label>
+                        <input type="text" name="TenDangNhap" class="form-control" placeholder="Nhập tên đăng nhập" required />
+                        @if (ViewData.ModelState["TenDangNhap"]?.Errors.Count > 0)
+                        {
+                            <span class="text-danger">@ViewData.ModelState["TenDangNhap"]?.Errors[0].ErrorMessage</span>
+                        }
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label class="form-label">Mật Khẩu</label>
+                        <div class="input-group">
+                            <input type="password" id="passwordInput" name="MatKhau" class="form-control" placeholder="Nhập mật khẩu" required />
+                            <button type="button" id="togglePassword" class="btn btn-outline-secondary">
+                                <i id="passwordIcon" class="fas fa-eye"></i>
+                            </button>
+                        </div>
+                        @if (ViewData.ModelState["MatKhau"]?.Errors.Count > 0)
+                        {
+                            <span class="text-danger">@ViewData.ModelState["MatKhau"]?.Errors[0].ErrorMessage</span>
+                        }
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="SoDienThoai" class="form-label">Số Điện Thoại</label>
+                        <input asp-for="SoDienThoai" class="form-control" type ="number" placeholder="Nhập số điện thoại" />
+                        <span asp-validation-for="SoDienThoai" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="DiaChi" class="form-label">Địa Chỉ</label>
+                        <input asp-for="DiaChi" class="form-control" placeholder="Nhập địa chỉ" />
+                        <span asp-validation-for="DiaChi" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="LoaiNhanVienId" class="form-label">Loại Nhân Viên</label>
+                        <select asp-for="LoaiNhanVienId" class="form-select" asp-items="ViewBag.LoaiNhanVienId">
+                            <option value="">Chọn loại nhân viên</option>
+                        </select>
+                        <span asp-validation-for="LoaiNhanVienId" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <input type="submit" value="Tạo Nhân Viên" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.querySelector("form").addEventListener("submit", function (event) {
+            const username = document.querySelector('input[name="TenDangNhap"]').value.trim();
+            const password = document.querySelector('input[name="MatKhau"]').value.trim();
+
+            let isValid = true;
+            if (!username) {
+                alert("Tên đăng nhập không được để trống.");
+                isValid = false;
+            }
+            if (!password) {
+                alert("Mật khẩu không được để trống.");
+                isValid = false;
+            }
+
+            if (!isValid) {
+                event.preventDefault();
+            }
+        });
+        document.addEventListener("DOMContentLoaded", function () {
+            const togglePassword = document.getElementById("togglePassword");
+            const passwordInput = document.getElementById("passwordInput");
+            const passwordIcon = document.getElementById("passwordIcon");
+
+            togglePassword.addEventListener("click", function () {
+                // Toggle the type attribute
+                const type = passwordInput.type === "password" ? "text" : "password";
+                passwordInput.type = type;
+
+                // Toggle the icon
+                if (type === "password") {
+                    passwordIcon.classList.remove("fa-eye-slash");
+                    passwordIcon.classList.add("fa-eye");
+                } else {
+                    passwordIcon.classList.remove("fa-eye");
+                    passwordIcon.classList.add("fa-eye-slash");
+                }
+            });
+        });
+    </script>
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}

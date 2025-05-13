@@ -1,0 +1,33 @@
+﻿@model ADMIN.Repository.Models.ChietKhau
+
+@{
+    ViewData["Title"] = "Chi Tiết Chiết Khấu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chi Tiết Chiết Khấu</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <dl class="row">
+            <dt class="col-sm-3">Mã Chiết Khấu</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.MaChietKhau)</dd>
+
+            <dt class="col-sm-3">Giá Trị Chiết Khấu</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.GiaTriChietKhau) VNĐ</dd>
+
+            <dt class="col-sm-3">Ngày Bắt Đầu</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.NgayBatDau)</dd>
+
+            <dt class="col-sm-3">Ngày Kết Thúc</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.NgayKetThuc)</dd>
+
+            <dt class="col-sm-3">Số Lượng</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Soluong)</dd>
+        </dl>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+        </div>
+    </div>
+</div>

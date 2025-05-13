@@ -1,0 +1,89 @@
+﻿@model IEnumerable<ADMIN.Repository.Models.MonAn>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var currentPage = ViewBag.CurrentPage;
+    var totalPages = ViewBag.TotalPages;
+}
+
+<div class="container mt-4">
+    <h2 class="text-center">Danh Sách Món Ăn</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <form asp-controller="MonAns" asp-action="Index" method="get" class="form-inline">
+            <div class="input-group">
+                <input type="text" name="searchString" class="form-control" placeholder="Tìm kiếm món ăn..." value="@ViewData["CurrentFilter"]" />
+                <button type="submit" class="btn btn-outline-primary">
+                    <i class="fas fa-search"></i>
+                </button>
+            </div>
+        </form>
+        <a class="btn btn-primary" asp-action="Create">Tạo Mới</a>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>
+                    Tên món
+                </th>
+                <th>
+                    Giá 
+                </th>
+                <th>
+                    Ảnh
+                </th>
+                <th>
+                    Trạng thái 
+                </th>
+                <th>
+                    Loại món ăn 
+                </th>
+                <th class="text-center">Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenMon)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Gia)
+                    </td>
+                    <td>
+                        <img src="@Url.Content(item.Img)" alt="@item.TenMon" class="img-thumbnail" style="width: 100px; height: auto;" />
+                    </td>
+                    <td>
+                        @(item.TrangThaiMonAn.HasValue ? (item.TrangThaiMonAn.Value ? "Còn bán" : "Ngưng bán") : "Ngưng bán")
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LoaiMonAn.TenLoai)
+                    </td>
+                    <td class="text-center">
+                        <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@item.MonAnId">Sửa</a>
+                        <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@item.MonAnId">Chi Tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <!-- Hiển thị phân trang -->
+    <div class="pagination d-flex justify-content-center align-items-center mt-4">
+        @if (ViewBag.CurrentPage > 1)
+        {
+            <a href="?pageNumber=@(ViewBag.CurrentPage - 1)&searchString=@ViewData["CurrentFilter"]" class="btn btn-outline-primary mx-2">Trước</a>
+        }
+
+        <span class="mx-3">Trang @ViewBag.CurrentPage / @ViewBag.TotalPages</span>
+
+        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+        {
+            <a href="?pageNumber=@(ViewBag.CurrentPage + 1)&searchString=@ViewData["CurrentFilter"]" class="btn btn-outline-primary mx-2">Tiếp theo</a>
+        }
+    </div>
+
+
+</div>

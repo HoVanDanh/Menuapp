@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ADMIN.Repository.Models.NhapNguyenLieu>
+
+@{
+    ViewData["Title"] = "Nhập Nguyên Liệu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <form method="get" asp-action="Index" class="d-flex w-33">
+            <select id="NhaCungCapId" name="nhaCungCapId" class="form-select col-4" onchange="this.form.submit()">
+                <option value="">Lọc Theo Nhà Cung Cấp</option>
+                @if (ViewBag.DanhSachNhaCungCap != null)
+                {
+                    foreach (var nhaCungCap in ViewBag.DanhSachNhaCungCap)
+                    {
+                        if (nhaCungCap.Value == ViewBag.SelectedNhaCungCapId?.ToString())
+                        {
+                            <option value="@nhaCungCap.Value" selected>@nhaCungCap.Text</option>
+                        }
+                        else
+                        {
+                            <option value="@nhaCungCap.Value">@nhaCungCap.Text</option>
+                        }
+                    }
+                }
+            </select>
+        </form>
+
+        <a asp-action="Create" class="btn btn-primary ms-auto">Nhập Nguyên Liệu</a>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th class="text-center">Tên Nguyên Liệu</th>
+                <th class="text-center">Ngày Nhập</th>
+                <th class="text-center">Số Lượng</th>
+                <th class="text-center">Nhà Cung Cấp</th>
+                <th class="text-center">Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.NguyenLieu.TenNguyenLieu)
+                    </td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.NgayNhap)
+                    </td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.SoLuong)
+                    </td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.NhaCungCap.TenNhaCungCap)
+                    </td>
+                    <td class="text-center align-middle">
+                        <a asp-action="Details" asp-route-id="@item.NhapNguyenLieuId" class="btn btn-info btn-sm">Chi Tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

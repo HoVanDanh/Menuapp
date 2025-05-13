@@ -1,0 +1,79 @@
+﻿@model IEnumerable<ADMIN.Repository.Models.HoaDon>
+
+@{
+    ViewData["Title"] = "Danh Sách Hóa Đơn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var sortedModel = Model.OrderByDescending(h => h.NgayTao);
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <form method="get" asp-action="Index" class="mb-3">
+            <div class="d-flex">
+                <div class="form-group me-2">
+                    <input type="date" id="datePicker" name="datePicker" class="form-control" value="@ViewBag.DateFilter">
+                </div>
+                <button type="submit" class="btn btn-primary align-self-end">Lọc</button>
+            </div>
+        </form>
+
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th class="text-center">Mã Đơn</th>
+                <th class="text-center">Ngày tạo</th>
+                <th class="text-center">Tổng tiền</th>
+                <th class="text-center">Bàn</th>
+                <th class="text-center">Tên Khách hàng</th>
+                <th class="text-center">Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in sortedModel)
+            {
+                <tr>
+                    <td class="text-center align-middle">@Html.DisplayFor(modelItem => item.HoaDonId)</td>
+                    <td class="text-center align-middle">@Html.DisplayFor(modelItem => item.NgayTao)</td>
+                    <td class="text-center align-middle">@Html.DisplayFor(modelItem => item.TongTien)</td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.Ban.TenBan)
+                    </td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.KhachHang.TenKhachHang)
+                    </td>
+                    <td class="text-center align-middle">
+                        <a asp-action="Edit" asp-route-id="@item.HoaDonId" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.HoaDonId" class="btn btn-info btn-sm ml-1">Chi Tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+            @if (ViewBag.CurrentPage > 1)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@(ViewBag.CurrentPage - 1)" asp-route-searchString="@ViewData["CurrentFilter"]">Trước</a>
+                </li>
+            }
+
+            @for (var i = 1; i <= ViewBag.TotalPages; i++)
+            {
+                <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                </li>
+            }
+
+            @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-action="Index" asp-route-pageNumber="@(ViewBag.CurrentPage + 1)" asp-route-searchString="@ViewData["CurrentFilter"]">Tiếp theo</a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

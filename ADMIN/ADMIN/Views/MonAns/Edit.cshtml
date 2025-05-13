@@ -1,0 +1,209 @@
+﻿@model ADMIN.Repository.Models.MonAn
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Chỉnh Sửa Thông Tin Món Ăn</h1>
+
+<div class="container">
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <input type="hidden" asp-for="MonAnId" />
+
+        <!-- Thông tin món ăn -->
+        <div class="card mb-4">
+            <div class="card-header">Thông Tin Món Ăn</div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="TenMon" class="control-label">Tên Món Ăn</label>
+                            <input asp-for="TenMon" class="form-control" />
+                            <span asp-validation-for="TenMon" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="LoaiMonAnId" class="control-label">Loại Món Ăn</label>
+                            <select asp-for="LoaiMonAnId" class="form-control" asp-items="ViewBag.LoaiMonAnId"></select>
+                            <span asp-validation-for="LoaiMonAnId" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="row mb-3">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label asp-for="Gia" class="control-label">Giá</label>
+                                <input asp-for="Gia" class="form-control" />
+                                <span asp-validation-for="Gia" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="Img" class="control-label">Hình Ảnh</label>
+                            <input asp-for="imgFile" type="file" class="form-control" />
+                            <span asp-validation-for="Img" class="text-danger"></span>
+                            @if (!string.IsNullOrEmpty(Model.Img))
+                            {
+                                <img src="@Url.Content(Model.Img)" alt="Hình Ảnh Hiện Tại" class="img-thumbnail mt-2" width="100" />
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label">Trạng Thái Món Ăn</label>
+
+                            <div class="form-check">
+                                <input type="radio" id="conBan" name="TrangThaiMonAn" value="true" @(Model.TrangThaiMonAn == true ? "checked" : "") class="form-check-input" />
+                                <label for="conBan" class="form-check-label">Còn Bán</label>
+                            </div>
+                            <div class="form-check">
+                                <input type="radio" id="ngungBan" name="TrangThaiMonAn" value="false" @(Model.TrangThaiMonAn == false ? "checked" : "") class="form-check-input" />
+                                <label for="ngungBan" class="form-check-label">Ngưng Bán</label>
+                            </div>
+                            <span asp-validation-for="TrangThaiMonAn" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <!-- Nguyên liệu món ăn -->
+        <div class="card mb-4">
+            <div class="card-header">Nguyên Liệu Món Ăn</div>
+            <div class="card-body">
+                <div class="row" id="nguyen-lieu-container">
+                    @foreach (var nguyenLieu in Model.NguyenLieuMonAns)
+                    {
+                        <div class="col-md-6 mb-3">
+                            <div class="form-group">
+                                <label>@nguyenLieu.NguyenLieu.TenNguyenLieu (@nguyenLieu.NguyenLieu.DonVi)</label>
+                                <input type="hidden" name="NguyenLieuMonAns[@nguyenLieu.NguyenLieuId].NguyenLieuId" value="@nguyenLieu.NguyenLieuId" />
+                                <input type="number" name="NguyenLieuMonAns[@nguyenLieu.NguyenLieuId].SoLuong" class="form-control" value="@nguyenLieu.SoLuong" placeholder="Nhập số lượng" required />
+                                <button type="button" class="btn btn-danger remove-nguyen-lieu mt-2">Xóa</button>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="selectedNguyenLieu">Chọn Nguyên Liệu</label>
+                            <select id="selectedNguyenLieu" class="form-control">
+                                <option value="">Chọn nguyên liệu</option>
+                                @foreach (var nguyenLieu in ViewBag.NguyenLieus)
+                                {
+                                    <option value="@nguyenLieu.NguyenLieuId" data-donvi="@nguyenLieu.DonVi">
+                                        @nguyenLieu.TenNguyenLieu (@nguyenLieu.DonVi)
+                                    </option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <button type="button" id="add-selected-nguyen-lieu" class="btn btn-secondary mt-4">Thêm Nguyên Liệu Đã Chọn</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Nút Lưu -->
+        <div class="d-flex justify-content-between">
+            <input type="submit" value="Lưu" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            let nguyenLieuCount = @Model.NguyenLieuMonAns?.Count() ?? 0;
+
+            // Thêm nguyên liệu từ dropdown
+            $('#add-selected-nguyen-lieu').click(function () {
+                const selectedNguyenLieuId = $('#selectedNguyenLieu').val();
+                const selectedNguyenLieuText = $('#selectedNguyenLieu option:selected').text();
+
+                if (selectedNguyenLieuId) {
+                    const nguyenLieuHtml = `
+                        <div class="col-md-6 mb-3">
+                            <div class="form-group">
+                                <label>${selectedNguyenLieuText}</label>
+                                <input type="hidden" name="NguyenLieuMonAns[${nguyenLieuCount}].NguyenLieuId" value="${selectedNguyenLieuId}" />
+                                <input type="number" name="NguyenLieuMonAns[${nguyenLieuCount}].SoLuong" class="form-control" placeholder="Nhập số lượng" required />
+                                <button type="button" class="btn btn-danger remove-nguyen-lieu mt-2">Xóa</button>
+                            </div>
+                        </div>`;
+                    $('#nguyen-lieu-container').append(nguyenLieuHtml);
+                    nguyenLieuCount++;
+                } else {
+                    alert("Vui lòng chọn nguyên liệu.");
+                }
+            });
+
+            $(document).on('click', '.save-nguyen-lieu', function () {
+                $('form').submit();
+                // location.reload();
+            });
+
+            // Xóa nguyên liệu
+            $(document).on('click', '.remove-nguyen-lieu', function () {
+                $(this).closest('.col-md-6').remove();
+            });
+        });
+        // thuc hien nguyeen liệu cho món
+        // hủy nguyên liệu món ăn
+        $(document).on('click', '.remove-nguyen-lieu', function () {
+            const $row = $(this).closest('.col-md-6');
+            const nguyenLieuId = $row.find('input[type="hidden"]').val();
+            const monAnId = @Model.MonAnId;
+
+            $.ajax({
+                url: '/MonAns/RemoveNguyenLieu',
+                type: 'POST',
+                data: { monAnId: monAnId, nguyenLieuId: nguyenLieuId },
+                success: function (response) {
+                    if (response.success) {
+                        $row.remove(); // Xóa khỏi giao diện nếu xóa thành công
+                    } else {
+                        alert(response.message || "Lỗi xảy ra khi xóa nguyên liệu.");
+                    }
+                },
+                error: function () {
+                    alert("Không thể kết nối đến server.");
+                }
+            });
+        });
+            $(document).ready(function () {
+            // Kiểm tra giá trị Giá
+            $('input[name="Gia"]').on('input', function () {
+                const gia = parseFloat($(this).val()); // Lấy giá trị nhập vào
+                const errorElement = $(this).siblings('.text-danger'); // Phần tử để hiển thị lỗi
+
+                if (isNaN(gia) || gia <= 0) {
+                    errorElement.text("Giá không hợp lệ."); // Thêm thông báo lỗi
+                } else {
+                    errorElement.text(""); // Xóa thông báo lỗi nếu hợp lệ
+                }
+            });
+
+            // Thêm sự kiện kiểm tra giá trị khi submit
+            $('form').on('submit', function (e) {
+                const gia = parseFloat($('input[name="Gia"]').val());
+                if (isNaN(gia) || gia <= 0) {
+                    e.preventDefault(); // Ngăn form submit
+                    alert("Giá phải lớn hơn 0."); // Hiển thị thông báo
+                }
+            });
+        });
+    </script>
+}

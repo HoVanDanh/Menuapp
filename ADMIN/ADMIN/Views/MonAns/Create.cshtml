@@ -1,0 +1,130 @@
+﻿@model ADMIN.Repository.Models.MonAn
+
+@{
+    ViewData["Title"] = "Create Mon An";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center mb-4">Thêm món ăn</h1>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data" class="border p-4 rounded shadow-sm bg-light">
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="TenMon" class="control-label">Tên Món Ăn</label>
+                <input asp-for="TenMon" class="form-control" />
+                <span asp-validation-for="TenMon" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="LoaiMonAnId" class="control-label">Loại Món Ăn</label>
+                <select asp-for="LoaiMonAnId" class="form-control" asp-items="ViewBag.LoaiMonAnId"></select>
+                <span asp-validation-for="LoaiMonAnId" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Gia" class="control-label">Giá</label>
+                <input asp-for="Gia" class="form-control" />
+                <span asp-validation-for="Gia" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row mb-3">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="Img" class="control-label">Hình Ảnh</label>
+                <input asp-for="imgFile" type="file" class="form-control" id="imgUpload" />
+                <span asp-validation-for="Img" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-md-6 d-flex align-items-center">
+            <img id="imgPreview" src="#" alt="Xem trước hình ảnh" style="display:none; max-width: 100%; height: auto;" class="rounded shadow-sm" />
+        </div>
+    </div>
+
+    <h4 class="border-bottom pb-2 mb-3">Nguyên Liệu Món Ăn</h4>
+    <div class="row mb-3">
+        <div id="nguyen-lieu-container" class="mb-3">
+            <!-- Container để thêm các thành phần lựa chọn nguyên liệu -->
+        </div>
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="selectedNguyenLieu">Chọn Nguyên Liệu</label>
+                <select id="selectedNguyenLieu" class="form-control">
+                    <option value="">Chọn nguyên liệu</option>
+                    @foreach (var nguyenLieu in ViewBag.NguyenLieus)
+                    {
+                        <option value="@nguyenLieu.NguyenLieuId" data-donvi="@nguyenLieu.DonVi">
+                            @nguyenLieu.TenNguyenLieu (@nguyenLieu.DonVi)
+                        </option>
+                    }
+                </select>
+            </div>
+        </div>
+        <div class="col-md-6 d-flex align-items-end">
+            <button type="button" id="add-selected-nguyen-lieu" class="btn btn-secondary w-100">Thêm Nguyên Liệu Đã Chọn</button>
+        </div>
+    </div>
+
+    <div class="d-flex justify-content-between mt-4">
+        <input type="submit" value="Thêm Món" class="btn btn-success" />
+        <a asp-action="Index" class="btn btn-secondary">Hủy bỏ</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function () {
+            let nguyenLieuCount = 0;
+
+            $('#add-selected-nguyen-lieu').click(function () {
+                const selectedNguyenLieuId = $('#selectedNguyenLieu').val();
+                const selectedNguyenLieuText = $('#selectedNguyenLieu option:selected').text();
+
+                if (selectedNguyenLieuId) {
+                    const nguyenLieuHtml = `
+                                        <div class="form-group">
+                                            <label>${selectedNguyenLieuText}</label>
+                                            <input type="hidden" name="NguyenLieuMonAns[${nguyenLieuCount}].NguyenLieuId" value="${selectedNguyenLieuId}" />
+                                            <input type="number" name="NguyenLieuMonAns[${nguyenLieuCount}].SoLuong" class="form-control" placeholder="Nhập số lượng" required />
+                                            <button type="button" class="btn btn-danger remove-nguyen-lieu mt-2">Xóa</button>
+                                        </div>
+                                    `;
+                    $('#nguyen-lieu-container').append(nguyenLieuHtml);
+                    nguyenLieuCount++;
+                } else {
+                    alert("Vui lòng chọn nguyên liệu.");
+                }
+            });
+
+            $(document).on('click', '.remove-nguyen-lieu', function () {
+                $(this).closest('.form-group').remove();
+            });
+
+            $('#imgUpload').change(function () {
+                const file = this.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = function (e) {
+                        $('#imgPreview').attr('src', e.target.result).show();
+                    }
+                    reader.readAsDataURL(file);
+                } else {
+                    $('#imgPreview').hide();
+                }
+            });
+        });
+    </script>
+}

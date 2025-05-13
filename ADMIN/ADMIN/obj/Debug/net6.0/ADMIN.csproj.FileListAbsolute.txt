@@ -1,0 +1,1152 @@
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.json
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.runtime.json
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.exe
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.deps.json
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.runtimeconfig.json
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.pdb
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.AssemblyReference.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfoInputs.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfo.cs
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.CoreCompileInputs.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cs
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.ADMIN.props
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADMIN.props
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADMIN.props
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\bundle\ADMIN.styles.css
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\ADMIN.bundle.scp.css
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.dll
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\refint\ADMIN.dll
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.pdb
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.genruntimeconfig.cache
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ref\ADMIN.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.json
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.runtime.json
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.exe
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.deps.json
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.runtimeconfig.json
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.pdb
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.AssemblyReference.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfoInputs.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfo.cs
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.CoreCompileInputs.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cs
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.ADMIN.props
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADMIN.props
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADMIN.props
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\bundle\ADMIN.styles.css
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\ADMIN.bundle.scp.css
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.dll
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\refint\ADMIN.dll
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.pdb
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.genruntimeconfig.cache
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ref\ADMIN.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.json
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.runtime.json
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.exe
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.deps.json
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.runtimeconfig.json
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.pdb
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.AssemblyReference.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfoInputs.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfo.cs
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.CoreCompileInputs.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cs
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.ADMIN.props
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADMIN.props
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADMIN.props
+D:\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\bundle\ADMIN.styles.css
+D:\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\ADMIN.bundle.scp.css
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.Up2Date
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.dll
+D:\ADMIN\ADMIN\obj\Debug\net6.0\refint\ADMIN.dll
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.pdb
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.genruntimeconfig.cache
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ref\ADMIN.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.dll
+D:\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.Up2Date
+D:\DATN\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.endpoints.json
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\DATN\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.Development.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\appsettings.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.endpoints.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.staticwebassets.runtime.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.exe
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.deps.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.runtimeconfig.json
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ADMIN.pdb
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Humanizer.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Common.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Game\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.AssemblyReference.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfoInputs.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.AssemblyInfo.cs
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.CoreCompileInputs.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.RazorAssemblyInfo.cs
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\bundle\ADMIN.styles.css
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\scopedcss\projectbundle\ADMIN.bundle.scp.css
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.json
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.development.json
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.ADMIN.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.build.ADMIN.props
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ADMIN.props
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ADMIN.props
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.Up2Date
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.dll
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\refint\ADMIN.dll
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.pdb
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.genruntimeconfig.cache
+D:\Game\ADMIN\ADMIN\obj\Debug\net6.0\ref\ADMIN.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\PagedList.Mvc.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\New folder\ADMIN\ADMIN\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\ADMIN\ADMIN\obj\Debug\net6.0\ADMIN.csproj.CopyComplete

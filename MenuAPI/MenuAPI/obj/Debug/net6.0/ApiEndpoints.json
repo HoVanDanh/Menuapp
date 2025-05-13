@@ -1,0 +1,361 @@
+[
+  {
+    "ContainingType": "MenuAPI.Controllers.AccountsController",
+    "Method": "login",
+    "RelativePath": "api/Accounts/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "MenuAPI.DTO.loginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.BansController",
+    "Method": "GetBans",
+    "RelativePath": "api/Bans/dsBans",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MenuAPI.Models.Ban, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.BansController",
+    "Method": "UpdateTrangThaiBan",
+    "RelativePath": "api/Bans/TrangThaiban",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "MenuAPI.DTO.updateban",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChietKhausController",
+    "Method": "GetChietKhaus",
+    "RelativePath": "api/ChietKhaus/dschietkhau",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MenuAPI.Models.ChietKhau, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChietKhausController",
+    "Method": "GiamSoLuongChiTietKhau",
+    "RelativePath": "api/ChietKhaus/giamsoLuong/{maChietKhau}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "maChietKhau",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChiTietDatBansController",
+    "Method": "GetChiTietMonAnCuaBan",
+    "RelativePath": "api/ChiTietDatBans/laychitietmonan/{banId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "banId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MenuAPI.DTO.ChitiecdatbanDTO, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChiTietDatBansController",
+    "Method": "PostChiTietDatBan",
+    "RelativePath": "api/ChiTietDatBans/taochitiecdatban",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chiTietDatBan",
+        "Type": "MenuAPI.Models.ChiTietDatBan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MenuAPI.Models.ChiTietDatBan",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChiTietDatBansController",
+    "Method": "XacNhanMonAn",
+    "RelativePath": "api/ChiTietDatBans/xacnhanmonan/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChiTietDatBansController",
+    "Method": "DeleteChiTietDatBanTheoBanIdVaMonAnId",
+    "RelativePath": "api/ChiTietDatBans/xoa1monancuaban/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.ChiTietDatBansController",
+    "Method": "DeleteChiTietDatBanTheoBanId",
+    "RelativePath": "api/ChiTietDatBans/xoamonancuaban/{banId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "banId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.HoaDonsController",
+    "Method": "GetHoaDonById",
+    "RelativePath": "api/HoaDons/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MenuAPI.DTO.HoaDonDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.HoaDonsController",
+    "Method": "HuyHoaDon",
+    "RelativePath": "api/HoaDons/HuyHoaDon/{hoaDonId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hoaDonId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.HoaDonsController",
+    "Method": "TaoHoaDon",
+    "RelativePath": "api/HoaDons/TaoHoaDon",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taoHoaDon",
+        "Type": "MenuAPI.DTO.TaoHoaDon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "MenuAPI.DTO.HoaDonDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.HoaDonsController",
+    "Method": "XacNhanThanhToan",
+    "RelativePath": "api/HoaDons/XacNhanThanhToan/{hoaDonId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hoaDonId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.KhachHangsController",
+    "Method": "GetKhachHangs",
+    "RelativePath": "api/KhachHangs/dskhachhang",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MenuAPI.DTO.KhachHangDTO, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.MonAnsController",
+    "Method": "dsMonAns",
+    "RelativePath": "api/MonAns/dsMonan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MenuAPI.Models.MonAn, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.MonAnsController",
+    "Method": "SoLuongPhanConLai",
+    "RelativePath": "api/MonAns/soLuongPhanConLai/{monAnId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "monAnId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MenuAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[MenuAPI.WeatherForecast, MenuAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

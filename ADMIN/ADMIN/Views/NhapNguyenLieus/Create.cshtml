@@ -1,0 +1,81 @@
+﻿@model ADMIN.Repository.Models.NhapNguyenLieu
+
+@{
+    ViewData["Title"] = "Tạo mới chi tiết nhập";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Tạo Chi Tiết Nhập Nguyên Liệu</h2>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="border rounded p-4 shadow-sm">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group mb-4">
+                        <label for="NguyenLieuId" class="form-label">Nguyên Liệu</label>
+                        <div class="d-flex">
+                            <select id="NguyenLieuId" name="NguyenLieuId" class="form-select me-2">
+                                <option value="">--Chọn nguyên liệu--</option>
+                                @if (ViewBag.DanhSachNguyenLieu != null)
+                                {
+                                    foreach (var nguyenLieu in ViewBag.DanhSachNguyenLieu)
+                                    {
+                                        <option value="@nguyenLieu.Value">@nguyenLieu.Text</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label for="NhaCungCapId" class="form-label">Nhà Cung Cấp</label>
+                        <div class="d-flex">
+                            <select id="NhaCungCapId" name="NhaCungCapId" class="form-select me-2">
+                                <option value="">--Chọn nhà cung cấp--</option>
+                                @if (ViewBag.DanhSachNhaCungCap != null)
+                                {
+                                    foreach (var nhaCungCap in ViewBag.DanhSachNhaCungCap)
+                                    {
+                                        <option value="@nhaCungCap.Value">@nhaCungCap.Text</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="form-group mb-4">
+                        <label asp-for="SoLuong" class="form-label">Số Lượng</label>
+                        <input asp-for="SoLuong" class="form-control" placeholder="Nhập số lượng" />
+                        <span asp-validation-for="SoLuong" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <input asp-action="Create" type="submit" value="Tạo" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-primary">Trở Về Danh Sách</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+        document.querySelector('form[asp-action="Create"]').addEventListener('submit', function (event) {
+            const nguyenLieuId = document.getElementById('NguyenLieuId').value;
+            const nhaCungCapId = document.getElementById('NhaCungCapId').value;
+
+            if (!nguyenLieuId || !nhaCungCapId) {
+                event.preventDefault();
+                alert('Vui lòng chọn Nguyên Liệu và Nhà Cung Cấp trước khi tạo!');
+            }
+        });
+    </script>
+}

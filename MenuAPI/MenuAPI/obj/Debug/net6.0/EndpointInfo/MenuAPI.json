@@ -1,0 +1,1239 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MenuAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Accounts/login": {
+      "post": {
+        "tags": [
+          "Accounts"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/loginDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/loginDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/loginDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Bans/dsBans": {
+      "get": {
+        "tags": [
+          "Bans"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ban"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ban"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Ban"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Bans/TrangThaiban": {
+      "post": {
+        "tags": [
+          "Bans"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/updateban"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/updateban"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/updateban"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/ChietKhaus/dschietkhau": {
+      "get": {
+        "tags": [
+          "ChietKhaus"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChietKhau"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChietKhau"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChietKhau"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ChietKhaus/giamsoLuong/{maChietKhau}": {
+      "post": {
+        "tags": [
+          "ChietKhaus"
+        ],
+        "parameters": [
+          {
+            "name": "maChietKhau",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/ChiTietDatBans/laychitietmonan/{banId}": {
+      "get": {
+        "tags": [
+          "ChiTietDatBans"
+        ],
+        "parameters": [
+          {
+            "name": "banId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChitiecdatbanDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChitiecdatbanDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ChitiecdatbanDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ChiTietDatBans/taochitiecdatban": {
+      "post": {
+        "tags": [
+          "ChiTietDatBans"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChiTietDatBan"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChiTietDatBan"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChiTietDatBan"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChiTietDatBan"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChiTietDatBan"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ChiTietDatBan"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ChiTietDatBans/xoamonancuaban/{banId}": {
+      "delete": {
+        "tags": [
+          "ChiTietDatBans"
+        ],
+        "parameters": [
+          {
+            "name": "banId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/ChiTietDatBans/xoa1monancuaban/{id}": {
+      "delete": {
+        "tags": [
+          "ChiTietDatBans"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/ChiTietDatBans/xacnhanmonan/{id}": {
+      "post": {
+        "tags": [
+          "ChiTietDatBans"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/HoaDons/{id}": {
+      "get": {
+        "tags": [
+          "HoaDons"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/HoaDons/TaoHoaDon": {
+      "post": {
+        "tags": [
+          "HoaDons"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TaoHoaDon"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TaoHoaDon"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TaoHoaDon"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/HoaDonDTO"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/HoaDons/HuyHoaDon/{hoaDonId}": {
+      "delete": {
+        "tags": [
+          "HoaDons"
+        ],
+        "parameters": [
+          {
+            "name": "hoaDonId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/HoaDons/XacNhanThanhToan/{hoaDonId}": {
+      "put": {
+        "tags": [
+          "HoaDons"
+        ],
+        "parameters": [
+          {
+            "name": "hoaDonId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/KhachHangs/dskhachhang": {
+      "get": {
+        "tags": [
+          "KhachHangs"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/KhachHangDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/KhachHangDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/KhachHangDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/MonAns/dsMonan": {
+      "get": {
+        "tags": [
+          "MonAns"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MonAn"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MonAn"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/MonAn"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/MonAns/soLuongPhanConLai/{monAnId}": {
+      "get": {
+        "tags": [
+          "MonAns"
+        ],
+        "parameters": [
+          {
+            "name": "monAnId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Ban": {
+        "type": "object",
+        "properties": {
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenBan": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "trangThai": {
+            "type": "boolean"
+          },
+          "isDelete": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "hoaDons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/HoaDon"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ChietKhau": {
+        "type": "object",
+        "properties": {
+          "chietKhauId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "maChietKhau": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "giaTriChietKhau": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ngayBatDau": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "ngayKetThuc": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ChitiecdatbanDTO": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenMonAn": {
+            "type": "string",
+            "nullable": true
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gia": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAn": {
+            "$ref": "#/components/schemas/MonAn"
+          },
+          "timeConLai": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "trangThai": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ChiTietDatBan": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gia": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "thoiGianTao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "trangThai": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ChiTietHoaDon": {
+        "type": "object",
+        "properties": {
+          "chiTietHoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gia": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hoaDon": {
+            "$ref": "#/components/schemas/HoaDon"
+          },
+          "monAn": {
+            "$ref": "#/components/schemas/MonAn"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ChiTietHoaDonDTO": {
+        "type": "object",
+        "properties": {
+          "chiTietHoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "hoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenMon": {
+            "type": "string",
+            "nullable": true
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gia": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "HoaDon": {
+        "type": "object",
+        "properties": {
+          "hoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "khachHangId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ngayTao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "tongTien": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "trangThai": {
+            "type": "boolean"
+          },
+          "ban": {
+            "$ref": "#/components/schemas/Ban"
+          },
+          "khachHang": {
+            "$ref": "#/components/schemas/KhachHang"
+          },
+          "chiTietHoaDons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ChiTietHoaDon"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "HoaDonDTO": {
+        "type": "object",
+        "properties": {
+          "hoaDonId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "khachHangId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenKhachHanh": {
+            "type": "string",
+            "nullable": true
+          },
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ngayTao": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "tongTien": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "chiTietHoaDons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ChiTietHoaDonDTO"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "KhachHang": {
+        "type": "object",
+        "properties": {
+          "khachHangId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenKhachHang": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "soDienThoai": {
+            "maxLength": 15,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "diaChi": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "hoaDons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/HoaDon"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "KhachHangDTO": {
+        "type": "object",
+        "properties": {
+          "khachHangId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenKhachHang": {
+            "type": "string",
+            "nullable": true
+          },
+          "soDienThoai": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaChi": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoaiMonAn": {
+        "type": "object",
+        "properties": {
+          "loaiMonAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenLoai": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "monAns": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/MonAn"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "loginDTO": {
+        "type": "object",
+        "properties": {
+          "tenDangNhap": {
+            "type": "string",
+            "nullable": true
+          },
+          "matKhau": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "MonAn": {
+        "required": [
+          "trangThaiMonAn"
+        ],
+        "type": "object",
+        "properties": {
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenMon": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "loaiMonAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "gia": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "img": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "trangThaiMonAn": {
+            "type": "boolean"
+          },
+          "loaiMonAn": {
+            "$ref": "#/components/schemas/LoaiMonAn"
+          },
+          "chiTietHoaDons": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/ChiTietHoaDon"
+            },
+            "nullable": true
+          },
+          "nguyenLieuMonAns": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NguyenLieuMonAn"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NguyenLieu": {
+        "type": "object",
+        "properties": {
+          "nguyenLieuId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenNguyenLieu": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "donVi": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "nguyenLieuMonAns": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NguyenLieuMonAn"
+            },
+            "nullable": true
+          },
+          "nhapNguyenLieus": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NhapNguyenLieu"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NguyenLieuMonAn": {
+        "type": "object",
+        "properties": {
+          "nguyenLieuMonAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAnId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nguyenLieuId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "monAn": {
+            "$ref": "#/components/schemas/MonAn"
+          },
+          "nguyenLieu": {
+            "$ref": "#/components/schemas/NguyenLieu"
+          }
+        },
+        "additionalProperties": false
+      },
+      "NhaCungCap": {
+        "type": "object",
+        "properties": {
+          "nhaCungCapId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tenNhaCungCap": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "diaChi": {
+            "maxLength": 255,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "soDienThoai": {
+            "maxLength": 15,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "nhapNguyenLieus": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NhapNguyenLieu"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "NhapNguyenLieu": {
+        "type": "object",
+        "properties": {
+          "nhapNguyenLieuId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nguyenLieuId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nhaCungCapId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "soLuong": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "ngayNhap": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "nguyenLieu": {
+            "$ref": "#/components/schemas/NguyenLieu"
+          },
+          "nhaCungCap": {
+            "$ref": "#/components/schemas/NhaCungCap"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TaoHoaDon": {
+        "type": "object",
+        "properties": {
+          "hoaDon": {
+            "$ref": "#/components/schemas/HoaDonDTO"
+          },
+          "khachHang": {
+            "$ref": "#/components/schemas/KhachHangDTO"
+          }
+        },
+        "additionalProperties": false
+      },
+      "updateban": {
+        "type": "object",
+        "properties": {
+          "banId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "trangThai": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

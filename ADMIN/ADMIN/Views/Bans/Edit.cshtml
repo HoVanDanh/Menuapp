@@ -1,0 +1,54 @@
+﻿@model ADMIN.Repository.Models.Ban
+
+@{
+    ViewData["Title"] = "Chỉnh Sửa Bàn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chỉnh Sửa Bàn</h2>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="border rounded p-4 shadow-sm">
+                <form asp-action="Edit">
+                    @* <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+
+                    @if (!ViewData.ModelState.IsValid)
+                    {
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            <ul>
+                                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                                {
+                                    <li>@error.ErrorMessage</li>
+                                }
+                            </ul>
+                            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                        </div>
+                    }
+
+                    <input type="hidden" asp-for="BanId" />
+
+                    <input type="hidden" asp-for="TrangThai" />
+
+                    <div class="form-group mb-4">
+                        <label asp-for="TenBan" class="form-label">Tên Bàn</label>
+                        <input asp-for="TenBan" class="form-control" />
+                        <span asp-validation-for="TenBan" class="text-danger"></span>
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <input type="submit" value="Lưu" class="btn btn-primary" />
+                        <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ADMIN.Repository.Models.Ban>
+
+@{
+    ViewData["Title"] = "Danh Sách Bàn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">@ViewData["Title"]</h2>
+
+    <div style="display: flex; justify-content: flex-end; margin-bottom: 1rem;">
+        <a asp-action="Create" class="btn btn-primary">Thêm Bàn Mới</a>
+    </div>
+
+    <table class="table table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th class="text-center">
+                    ID bàn
+                </th>
+                <th class="text-center">
+                   Tên Bàn 
+                </th>
+                <th class="text-center">
+                    Trạng thái
+                </th>
+                <th class="text-center">Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                     <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.BanId)
+                    </td>
+                    <td class="text-center align-middle">
+                        @Html.DisplayFor(modelItem => item.TenBan)
+                    </td>
+                    <td class="text-center align-middle">
+                        <div class="d-flex align-items-center justify-content-center">
+                            <span class="badge @(item.TrangThai ? "bg-warning text-dark" : "bg-success text-white")">
+                                @(item.TrangThai ? "Đang Sử Dụng" : "Trống")
+                            </span>
+                        </div>
+                    </td>
+
+                    <td class="text-center align-middle">
+                        <a asp-action="Edit" asp-route-id="@item.BanId" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.BanId" class="btn btn-info btn-sm ml-1">Chi Tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,48 @@
+﻿@model ADMIN.Repository.Models.NguyenLieu
+
+@{
+    ViewData["Title"] = "Chỉnh Sửa Nguyên Liệu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chỉnh Sửa Nguyên Liệu</h2>
+    <div class="border rounded p-4 shadow-sm">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NguyenLieuId" />
+
+            <div class="form-group mb-3">
+                <label asp-for="TenNguyenLieu" class="control-label">Tên Nguyên Liệu</label>
+                <input asp-for="TenNguyenLieu" class="form-control" placeholder="Nhập tên nguyên liệu" />
+                <span asp-validation-for="TenNguyenLieu" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="SoLuong" class="control-label">Số Lượng</label>
+                <input asp-for="SoLuong" class="form-control" placeholder="Nhập số lượng" />
+                <span asp-validation-for="SoLuong" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-4">
+                <label asp-for="DonVi" class="control-label">Đơn Vị Tính</label>
+                <input asp-for="DonVi" class="form-control" placeholder="Nhập đơn vị tính" />
+                <span asp-validation-for="DonVi" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+    <div class="mt-4">
+        <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

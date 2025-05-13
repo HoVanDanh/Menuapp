@@ -1,0 +1,31 @@
+﻿@model ADMIN.Repository.Models.HoaDon
+
+@{
+    ViewData["Title"] = "Chi Tiết Hóa Đơn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chi Tiết Hóa Đơn</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <dl class="row">
+            <dt class="col-sm-3">Ngày Tạo</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.NgayTao)</dd>
+
+            <dt class="col-sm-3">Tổng Tiền</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.TongTien)</dd>
+
+            <dt class="col-sm-3">Bàn</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.Ban.TenBan)</dd>
+
+            <dt class="col-sm-3">Khách Hàng</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.KhachHang.TenKhachHang)</dd>
+        </dl>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Edit" asp-route-id="@Model?.HoaDonId" class="btn btn-warning">Chỉnh Sửa</a>
+            <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+        </div>
+    </div>
+</div>

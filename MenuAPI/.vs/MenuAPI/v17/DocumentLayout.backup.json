@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DATN\\MenuAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\banscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\banscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\hoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\chitietdatbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\chitietdatbanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\chietkhauscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\chietkhauscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\chieckhaucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\chieckhaucs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\chitietdatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\chitietdatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\monanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\monanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\menudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\chitiecdatbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\chitiecdatbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\khachhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\gethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\gethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\taohoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|d:\\datn\\menuapi\\menuapi\\dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F83AB-0258-4329-AEAD-F22AE2D69EE3}|MenuAPI\\MenuAPI.csproj|solutionrelative:menuapi\\dto\\chitiethoadondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:29:03.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChietKhausController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\ChietKhausController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\ChietKhausController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\ChietKhausController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\ChietKhausController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:42:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MonAnsController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\MonAnsController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\MonAnsController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\MonAnsController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\MonAnsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:37:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:34:32.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BansController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\BansController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\BansController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\BansController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\BansController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:27:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MenuAPI\\appsettings.json",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\appsettings.json",
+              "RelativeToolTip": "MenuAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T07:24:33.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chieckhaucs.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\chieckhaucs.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\chieckhaucs.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\chieckhaucs.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\chieckhaucs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T04:42:22.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HoaDonDTO.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\HoaDonDTO.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\HoaDonDTO.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\HoaDonDTO.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\HoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:48:10.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTietDatBansController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\ChiTietDatBansController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\ChiTietDatBansController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\ChiTietDatBansController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\ChiTietDatBansController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAuwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T08:49:06.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietDatBan.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\ChiTietDatBan.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\ChiTietDatBan.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\ChiTietDatBan.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\ChiTietDatBan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:08:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\NhanVien.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\NhanVien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:42:54.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuDbContext.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\MenuDbContext.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\MenuDbContext.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\MenuDbContext.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\MenuDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIAwwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:27:52.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:16:13.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChitiecdatbanDTO.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\ChitiecdatbanDTO.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\ChitiecdatbanDTO.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\ChitiecdatbanDTO.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\ChitiecdatbanDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T11:21:13.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Models\\HoaDon.cs",
+              "RelativeToolTip": "MenuAPI\\Models\\HoaDon.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T13:06:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "MenuAPI\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:09:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaoHoaDon.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\TaoHoaDon.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\TaoHoaDon.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\TaoHoaDon.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\TaoHoaDon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:03:25.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "getHoaDonDTO.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\getHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\getHoaDonDTO.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\getHoaDonDTO.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\getHoaDonDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:03:54.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KhachHangDTO.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\KhachHangDTO.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\KhachHangDTO.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\KhachHangDTO.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\KhachHangDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:45:02.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChiTietHoaDonDTO.cs",
+              "DocumentMoniker": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeDocumentMoniker": "MenuAPI\\DTO\\ChiTietHoaDonDTO.cs",
+              "ToolTip": "D:\\DATN\\MenuAPI\\MenuAPI\\DTO\\ChiTietHoaDonDTO.cs",
+              "RelativeToolTip": "MenuAPI\\DTO\\ChiTietHoaDonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:36:44.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

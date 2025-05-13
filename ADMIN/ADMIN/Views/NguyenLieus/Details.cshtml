@@ -1,0 +1,28 @@
+﻿@model ADMIN.Repository.Models.NguyenLieu
+
+@{
+    ViewData["Title"] = "Chi Tiết Nguyên Liệu";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Chi Tiết Nguyên Liệu</h2>
+    <hr />
+    <div class="border rounded p-4 shadow-sm">
+        <dl class="row">
+            <dt class="col-sm-3">Tên Nguyên Liệu</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.TenNguyenLieu)</dd>
+
+            <dt class="col-sm-3">Số Lượng</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.SoLuong)</dd>
+
+            <dt class="col-sm-3">Đơn Vị</dt>
+            <dd class="col-sm-9">@Html.DisplayFor(model => model.DonVi)</dd>
+        </dl>
+
+        <div class="d-flex justify-content-between">
+            <a asp-action="Edit" asp-route-id="@Model?.NguyenLieuId" class="btn btn-primary">Chỉnh Sửa</a>
+            <a asp-action="Index" class="btn btn-secondary">Trở Về Danh Sách</a>
+        </div>
+    </div>
+</div>
